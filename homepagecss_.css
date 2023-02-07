@@ -1,0 +1,221 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    background-image: linear-gradient(rgba(9, 26, 66, 0.95), rgba(9, 26, 66, 0) 102.84%), url(../images/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+h2 {
+    color: white;
+    font-weight: 500;
+    font-size: 37px;
+    padding-top: 223px;
+    padding-left: 101px;
+}
+
+h1 {
+    color: white;
+    font-weight: 700;
+    font-size: 90.1787px;
+    padding-top: 2.32px;
+    padding-left: 96px;
+}
+
+p {
+    color: white;
+    font-weight: 500;
+    font-size: 26.2014px;
+    line-height: 39px;
+    padding-left: 96px;
+    padding-bottom: 47px;
+}
+
+.text {
+    color: rgb(12, 108, 233);
+}
+
+.navigations {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+#logo img {
+    width: 246px;
+}
+
+.nav-links ul li {
+    font-size: 27px;
+    display: inline-block;
+    list-style: none;
+    padding: 20px 20px;
+}
+
+.nav-links ul li a {
+    color: white;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.nav-links ul li:hover::after {
+    width: 100%;
+}
+
+.nav-links ul li::after {
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: rgb(6, 135, 240);
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+
+.nav-links ul li:hover::after {
+    width: 100%;
+}
+
+.contacts {
+    background-color: rgb(12, 108, 233);
+    border: 2px solid rgb(12, 108, 233);
+    border-radius: 0%;
+    padding: 5px 2px;
+}
+
+.contacts:hover {
+    color: rgb(6, 135, 240);
+}
+
+.refrences {
+    padding-left: 96px;
+}
+
+.refrences a {
+    color: white;
+}
+
+.refrences a .bc:hover {
+    color: rgb(6, 135, 240);
+}
+
+.refrences a .git:hover {
+    color: rgb(9, 53, 148);
+}
+
+.git {
+    background-color: rgb(12, 108, 233);
+    border: 2px solid rgb(12, 108, 233);
+    border-radius: 0%;
+    padding: 15px 26px 16px 32px;
+}
+
+.bc {
+    border: 2px solid rgb(12, 108, 233);
+    border-radius: 0%;
+    padding: 15px 26px 16px 32px;
+    margin-left: 0px;
+}
+
+.outro {
+    background-color: #F4F6FF;
+}
+
+.end {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 112.46px;
+    padding-left: 60px;
+    padding-right: 55px;
+}
+
+figure img {
+    width: 240px;
+    text-align: justify;
+}
+
+.copyright {
+    color: black;
+    text-align: center;
+    font-size: 15px;
+}
+
+#mail {
+    color: #006ED3;
+}
+
+.mail:hover {
+    color: rgb(48, 149, 243);
+}
+
+#number {
+    color: #006ED3;
+}
+
+.number:hover {
+    color: rgb(48, 149, 243);
+}
+
+#location {
+    color: #006ED3;
+}
+
+.location {
+    color: black;
+}
+
+.mail a {
+    color: black;
+}
+
+.number a {
+    color: black;
+}
+
+.location a {
+    color: black;
+}
+
+.nav-links2 ul li {
+    list-style: none;
+    display: block;
+    color: black;
+
+}
+
+.nav-links2 ul li a {
+    color: black;
+}
+
+.nav-links2 ul li a:hover {
+    color: rgb(48, 149, 243)
+}
+
+.slidertxt {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    /*
+    padding-bottom: 46px; */
+}
+
+.endh {
+    background-image: url(../images/Group\ 7784.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+   
+}
