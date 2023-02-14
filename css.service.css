@@ -111,7 +111,7 @@ a:link {
     border: 2px solid white;
     background: #FFFFFF;
     border-radius: 11.2693px;
-    /* width: 415.56px; */
+    width: 415.56px;
     font-weight: 500;
     font-size: 17px;
     text-align: left;
@@ -123,7 +123,7 @@ a:link {
     border: 2px solid white;
     background: #FFFFFF;
     border-radius: 11.2693px;
-    /* width: 415.56px; */
+    width: 415.56px;
     font-weight: 500;
     font-size: 17px;
     text-align: left;
@@ -134,7 +134,7 @@ a:link {
     border: 2px solid white;
     background: #FFFFFF;
     border-radius: 11.2693px;
-    /* width: 415.56px; */
+    width: 415.56px;
     font-weight: 500;
     font-size: 17px;
     text-align: left;
@@ -146,18 +146,18 @@ a:link {
     border: 2px solid white;
     background: #FFFFFF;
     border-radius: 11.2693px;
-    /* width: 415.56px; */
+    width: 415.56px;
     font-weight: 500;
     font-size: 17px;
     text-align: left;
-    padding: 62px 10px 62px 37.56px;
+    padding: 20px 10px 62px 37.56px;
 }
 
 #ia {
     border: 2px solid white;
     background: #FFFFFF;
     border-radius: 11.2693px;
-    /* width: 415.56px; */
+    width: 415.56px;
     font-weight: 500;
     font-size: 17px;
     text-align: left;
@@ -169,7 +169,7 @@ a:link {
     border: 2px solid white;
     background: #FFFFFF;
     border-radius: 11.2693px;
-    /* width: 415.56px; */
+    width: 415.56px; 
     font-weight: 500;
     font-size: 17px;
     text-align: left;
@@ -182,11 +182,11 @@ a:link {
     background: #FFFFFF;
     border-radius: 11.2693px;
     width: 415.56px;
-    height: 321.18px;
+    /* height: 321.18px; */
     font-weight: 500;
     font-size: 17px;
     text-align: left;
-    padding: 45px 10px 62px 37.56px;
+    padding: 20px 10px 62px 37.56px;
 }
 
 #dbm {
@@ -194,11 +194,11 @@ a:link {
     background: #FFFFFF;
     border-radius: 11.2693px;
      width: 415.56px; 
-     height: 321.18px;
+     /* height: 321.18px; */
     font-weight: 500;
     font-size: 17px;
     text-align: left;
-    padding: 62px 60px 62px 37.56px;
+    padding: 62px 10px 62px 37.56px;
     margin-left: 36.67px;
 }
 
@@ -207,18 +207,20 @@ a:link {
     background: #FFFFFF;
     border-radius: 11.2693px;
     width: 415.56px;
-    height: 321.18px;
+    /* height: 321.18px; */
     font-weight: 500;
     font-size: 17px;
     text-align: left;
-    padding: 51px 10px 62px 37.56px;
+    padding: 5px 10px 55px 37.56px;
     margin-left: 36.67px;
+    margin-top: 10px;
 }
 
 .cardheader {
     font-weight: 600;
     font-size: 29.6692px;
     text-align: left;
+    padding-bottom: 40px;
     /* padding-right: 10px; */
 }
 .cardcontainer{
@@ -241,3 +243,94 @@ a:link {
     align-items: center;
     padding-top: 31.4px;
 }
+.outro {
+    background-color: #F4F6FF;
+}
+
+.end {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 112.46px;
+    padding-left: 60px;
+    padding-right: 55px;
+}
+
+figure img {
+    width: 240px;
+    text-align: justify;
+}
+
+.copyright {
+    color: black;
+    text-align: center;
+    font-size: 15px;
+}
+
+#mail {
+    color: #006ED3;
+}
+
+.mail:hover {
+    color: rgb(48, 149, 243);
+}
+
+#number {
+    color: #006ED3;
+}
+
+.number:hover {
+    color: rgb(48, 149, 243);
+}
+
+#location {
+    color: #006ED3;
+}
+
+.location {
+    color: black;
+}
+
+.mail a {
+    color: black;
+}
+
+.number a {
+    color: black;
+}
+
+.location a {
+    color: black;
+}
+
+.nav-links2 ul li {
+    list-style: none;
+    display: block;
+    color: black;
+
+}
+
+.nav-links2 ul li a {
+    color: black;
+}
+
+.nav-links2 ul li a:hover {
+    color: rgb(48, 149, 243)
+}
+
+/* .slidertxt {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    /*
+    padding-bottom: 46px;
+ } */
+
+
+/* .endh {
+    background-image: url(../images/Group\ 7784.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+}*/
