@@ -111,81 +111,70 @@ a:link {
     border: 2px solid white;
     background: #FFFFFF;
     border-radius: 11.2693px;
-    width: 415.56px;
+    /* width: 415.56px; */
     font-weight: 500;
     font-size: 17px;
     text-align: left;
-    padding: 62px 10px 31.4px 37.56px;
+    padding: 62px 10px 62px 37.56px;
+    margin-left: 36.67px;
 }
 
 #projectmanagement {
     border: 2px solid white;
     background: #FFFFFF;
     border-radius: 11.2693px;
-    width: 415.56px;
+    /* width: 415.56px; */
     font-weight: 500;
     font-size: 17px;
     text-align: left;
-    padding-bottom:31.4px;
-    padding-left: 37.56px;
-    padding-top: 62px;
-    padding-right: 30px;
+    padding: 62px 10px 62px 37.56px;
 }
 
 #clientsupport {
     border: 2px solid white;
     background: #FFFFFF;
     border-radius: 11.2693px;
-    width: 415.56px;
+    /* width: 415.56px; */
     font-weight: 500;
     font-size: 17px;
     text-align: left;
-    padding-bottom:31.4px;
-    padding-left: 37.56px;
-    padding-top: 62px;
-    padding-right: 30px;
+    padding: 62px 10px 62px 37.56px;
+    margin-left: 36.67px;
 }
 
 #fam {
     border: 2px solid white;
     background: #FFFFFF;
     border-radius: 11.2693px;
-    width: 415.56px;
+    /* width: 415.56px; */
     font-weight: 500;
     font-size: 17px;
     text-align: left;
-    padding-bottom:31.4px;
-    padding-left: 37.56px;
-    padding-top: 62px;
-    padding-right: 30px;
+    padding: 62px 10px 62px 37.56px;
 }
 
 #ia {
     border: 2px solid white;
     background: #FFFFFF;
     border-radius: 11.2693px;
-    width: 415.56px;
+    /* width: 415.56px; */
     font-weight: 500;
     font-size: 17px;
     text-align: left;
-    padding-bottom:31.4px;
-    padding-left: 37.56px;
-    padding-top: 62px;
-    padding-right: 30px;
+    padding: 62px 10px 62px 37.56px;
+    margin-left: 36.67px;
 }
 
 #sd {
     border: 2px solid white;
     background: #FFFFFF;
     border-radius: 11.2693px;
-    width: 415.56px;
+    /* width: 415.56px; */
     font-weight: 500;
     font-size: 17px;
     text-align: left;
-    padding-bottom:31.4px;
-    padding-left: 37.56px;
-    padding-top: 62px;
-    padding-right: 30px;
+    padding: 62px 10px 62px 37.56px;
+    margin-left: 36.67px;
 }
 
 #sraa {
@@ -193,27 +182,24 @@ a:link {
     background: #FFFFFF;
     border-radius: 11.2693px;
     width: 415.56px;
+    height: 321.18px;
     font-weight: 500;
     font-size: 17px;
     text-align: left;
-    padding-bottom:31.4px;
-    padding-left: 37.56px;
-    padding-top: 62px;
-    padding-right: 30px;
+    padding: 45px 10px 62px 37.56px;
 }
 
 #dbm {
     border: 2px solid white;
     background: #FFFFFF;
     border-radius: 11.2693px;
-    width: 415.56px;
+     width: 415.56px; 
+     height: 321.18px;
     font-weight: 500;
     font-size: 17px;
     text-align: left;
-    padding-bottom:31.4px;
-    padding-left: 37.56px;
-    padding-top: 62px;
-    padding-right: 30px;
+    padding: 62px 60px 62px 37.56px;
+    margin-left: 36.67px;
 }
 
 #stas {
@@ -221,20 +207,19 @@ a:link {
     background: #FFFFFF;
     border-radius: 11.2693px;
     width: 415.56px;
+    height: 321.18px;
     font-weight: 500;
     font-size: 17px;
-    text-align:left;
-    padding-bottom:31.4px;
-    padding-left: 37.56px;
-    padding-top: 62px;
-    padding-right: 30px;
+    text-align: left;
+    padding: 51px 10px 62px 37.56px;
+    margin-left: 36.67px;
 }
 
 .cardheader {
     font-weight: 600;
     font-size: 29.6692px;
     text-align: left;
-    padding-right: 30px;
+    /* padding-right: 10px; */
 }
 .cardcontainer{
     padding-top: 40px;
